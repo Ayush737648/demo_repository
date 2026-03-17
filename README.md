@@ -2,5 +2,4 @@
 hello guys it's ayush 
 <br>
 Uploading new posting repository
-Hello world <br>
-bsdk
+Hello world
